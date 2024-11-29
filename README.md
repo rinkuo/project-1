@@ -1,5 +1,3 @@
-Below is a sample `README.md` file based on the image you provided:
-
 ---
 
 # Course Management System
@@ -69,11 +67,6 @@ A simple web-based application for managing courses. Users can create, view, and
 2. View all created courses in the "Course List" section.
 3. Modify or delete courses (if functionality is implemented).
 
-## Technologies Used
-
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: (e.g., Django/Flask/Node.js)
-- **Database**: (e.g., SQLite/MySQL/PostgreSQL)
 
 ## Contributing
 
