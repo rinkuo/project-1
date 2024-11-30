@@ -28,10 +28,10 @@ This project is a **Course and Student Management System** built using the Djang
 ## Screenshots
 
 ### Course Management
-![Course Management Screenshot]()
+![Course Management Screenshot](https://github.com/user-attachments/assets/a2784b5a-8a89-49e5-b46f-d716a81f0274)
 
 ### Student Management
-![Student Management Screenshot]()
+![Student Management Screenshot](https://github.com/user-attachments/assets/cdda0d5d-2391-4072-8c5d-c8a0522c7168)
 
 ## Prerequisites
 
